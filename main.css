@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'digital';
+    src: url('./digital-7.ttf');
+}
+div{
+    margin-top: 30vh;
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    width: 250px;
+    text-align: center;
+    font-size: 42px;
+    padding: 15px 25px;
+    font-family: 'digital';
+    color: grey;
+    box-shadow: 12px 12px 0 grey;
+    background-color: aquamarine;
+}
