@@ -14,5 +14,5 @@ setInterval(() => {
         time = 'Please open console'
     }
     clock.textContent = time
-    console.log(`%c${time}`,"color:#01e694; background: #030303; padding: 12px 20px; margin: 10px; border-radius: 10px; font-family: sans-serif; border: 1px solid #01e694; border-radius: 8px 0 8px 0")
+    console.log(`%c${time}`,"color:#01e694; background: #030303; padding: 12px 20px; margin: 10px; border-radius: 10px;font-size: 20px; font-family: sans-serif; border: 1px solid #01e694; border-radius: 8px 0 8px 0")
 }, 1000)
